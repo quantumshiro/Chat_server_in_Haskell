@@ -1,1 +1,1 @@
-# Char_server_in_Haskell
+# Chat_server_in_Haskell
